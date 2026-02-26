@@ -1,0 +1,22 @@
+# Runtime/local data
+snapshots/
+logs/
+config.json
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp

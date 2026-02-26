@@ -1,0 +1,2 @@
+class DDHelperError(RuntimeError):
+    pass
